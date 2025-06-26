@@ -20,15 +20,6 @@ This is a simple Weather Application built using **HTML**, **CSS**, and **JavaSc
 - **API**: [OpenWeatherMap API](https://openweathermap.org/api)
 - **IDE Used**: Visual Studio Code (VS Code)
 
-## 📸 Screenshots
-
-![App Screenshot](images/screenshot.png) <!-- Replace with your actual screenshot path -->
-
-## 🌐 Live Demo
-
-> If hosted via GitHub Pages, include link below:
-
-[View Live](https://your-username.github.io/weather-app/)
 
 ## 🔧 Setup Instructions
 
