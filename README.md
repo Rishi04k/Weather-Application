@@ -54,22 +54,20 @@ Open index.html in your browser
 Enter a city name and click the search icon
 
 📁 Folder Structure
-pgsql
-Copy
-Edit
+
 weather-app/
-├── index.html
-├── style.css
-├── script.js (if separated)
-├── images/
-│   ├── search.png
-│   ├── rain.png
-│   ├── clear.png
-│   ├── Clouds.png
-│   ├── Drizzle.png
-│   ├── Mist.png
-│   ├── humidity.png
-│   └── wind.png
+index.html
+style.css
+ script.js (if separated)
+ images/
+ search.png
+ rain.png
+ clear.png
+ Clouds.png
+ Drizzle.png
+ Mist.png
+ humidity.png
+ wind.png
 
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
