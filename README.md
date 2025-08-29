@@ -21,8 +21,4 @@ This is a simple Weather Application built using **HTML**, **CSS**, and **JavaSc
 - **IDE Used**: Visual Studio Code (VS Code)
 
 
-Created with 💻 using HTML, CSS, JavaScript & ❤️ VS Code
 
----
-
-Let me know if you want to include badges (like GitHub stars or license info), or a more advanced setu
